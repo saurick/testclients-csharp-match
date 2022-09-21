@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yN93wm5NGnhP38LKFEeDirXtOcsRo3SjF0UiJpGlAbFob6UzU9BW3iYP+OU/ETJ/aCMwVgNkmCkeB7OcAWfpuw==",
+  "success": true,
+  "projectFilePath": "/root/testclients-csharp-match/MatchClient.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/google.protobuf/3.19.4/google.protobuf.3.19.4.nupkg.sha512",
+    "/root/.nuget/packages/grpc/2.44.0/grpc.2.44.0.nupkg.sha512",
+    "/root/.nuget/packages/grpc.core/2.44.0/grpc.core.2.44.0.nupkg.sha512",
+    "/root/.nuget/packages/grpc.core.api/2.44.0/grpc.core.api.2.44.0.nupkg.sha512",
+    "/root/.nuget/packages/grpc.tools/2.44.0/grpc.tools.2.44.0.nupkg.sha512",
+    "/root/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/root/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
